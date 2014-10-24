@@ -1,4 +1,4 @@
-sfntly-builds
+sfntly-java-dist
 =============
 
-Builds of sfntly from https://code.google.com/p/sfntly/
+Compiled distribution files of sfntly from https://code.google.com/p/sfntly/
